@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
   "installer_url": "https://github.com/thorstenweiss87-blip/preveneo-releases/releases/download/v1.0.0/Preveneo-Viewer-1.0.0-setup.exe",
-  "sha256": "8aa143fcbb151eddcb346b31fb2582b02bf43e8087c669c75aafd7df2f0f76f9",
+  "sha256": "c1b42ff88cb1ee39ad673ddb80e88326a0dd2ee0d88891a9bb8733b2026b1101",
   "notes": "Erstes lizenzpflichtiges Release: Lizenzschutz (Ed25519) + Auto-Update."
 }
