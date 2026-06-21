@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "installer_url": "https://github.com/thorstenweiss87-blip/preveneo-releases/releases/download/v1.0.1/Preveneo-Viewer-1.0.1-setup.exe",
-  "sha256": "68ca7875456523fdcb789cbed6b8bf6d776f0a869b1d4e2d88a34620eead1314",
-  "notes": "Neu: „Was ist neu\"-Dialog zeigt nach Updates die Neuerungen an."
+  "version": "1.1.0",
+  "installer_url": "https://github.com/thorstenweiss87-blip/preveneo-releases/releases/download/v1.1.0/Preveneo-Viewer-1.1.0-setup.exe",
+  "sha256": "826ecf5ebf8db18cc2cbe038418ad3dfae400166566aa31f2f5ca91e75d346f4",
+  "notes": "Kapitel-Kommentare in der Detailansicht (im PDF), Gesamtnote ohne Prozentangabe, Korrektur der Punktevergabe bei Achtsamkeit."
 }
