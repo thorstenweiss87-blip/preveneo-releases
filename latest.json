@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "installer_url": "https://github.com/thorstenweiss87-blip/preveneo-releases/releases/download/v1.1.0/Preveneo-Viewer-1.1.0-setup.exe",
-  "sha256": "826ecf5ebf8db18cc2cbe038418ad3dfae400166566aa31f2f5ca91e75d346f4",
-  "notes": "Kapitel-Kommentare in der Detailansicht (im PDF), Gesamtnote ohne Prozentangabe, Korrektur der Punktevergabe bei Achtsamkeit."
+  "version": "1.1.1",
+  "installer_url": "https://github.com/thorstenweiss87-blip/preveneo-releases/releases/download/v1.1.1/Preveneo-Viewer-1.1.1-setup.exe",
+  "sha256": "ad79553f27c271f481b6bb849efd505d4958963dd706fc2df15dad05418ded19",
+  "notes": "Behoben: Beim Beenden der App konnte nach dem Hintergrund-Update-Check eine Fehlermeldung erscheinen. Die App schliesst jetzt in allen Faellen sauber."
 }
